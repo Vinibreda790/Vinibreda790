@@ -7,4 +7,4 @@ Eu sou estudande do colégio Idalia Rocha
 Gosto de basquete 
 campeão of the grand-champion in Rocket league
 
-![].(https://www.icegif.com/wp-content/uploads/2022/03/icegif-566.gif|)
+![](https://www.icegif.com/wp-content/uploads/2022/03/icegif-566.gif)
